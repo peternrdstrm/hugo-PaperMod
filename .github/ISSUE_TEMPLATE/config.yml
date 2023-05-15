@@ -3,3 +3,19 @@ contact_links:
   - name: PaperMod Discussions
     url: https://github.com/adityatelange/hugo-PaperMod/discussions
     about: Please ask and answer questions/doubts here, do not open an issue for questions.
+params:
+  env: production
+  socialIcons:
+  - name: "youtube"
+    title: "<YouTube>"
+    url: "https://www.youtube.com/channel/UCUNrfNXOZ17eAGYskQTQCtw"
+  - name: "twitter"
+    title: "<Twitter>"
+    url: "https://twitter.com/nrdstrmmusic"
+  - name: "instagram"
+    title: <Instagram>
+    url: "https://www.instagram.com/nrdstrmmusic/"
+  - name: "spotify"
+    title: <Spotify>
+    url: "https://open.spotify.com/artist/3fyd9eRvXjl0Nzaf1h8RQV"
+
